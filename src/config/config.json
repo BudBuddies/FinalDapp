@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd638995d9f70EAfd506a876AD755A35709745F7F",
+  "SCAN_LINK": "https://etherscan.io/address/0xd638995d9f70EAfd506a876AD755A35709745F7F",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "BudBuddies",
+  "SYMBOL": "BUDS",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 42000000000000000,
+  "DISPLAY_COST": 0.042,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/budbuddies",
+  "SHOW_BACKGROUND": true
+}

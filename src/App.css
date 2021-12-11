@@ -1,0 +1,36 @@
+@media screen and (max-width: 100%) {
+  #about{
+    padding: 20px;
+    width: 100%;
+    
+    text-align: right;
+
+  }
+  #features {
+    padding: 40px;
+    width: 100%;
+    text-align: right;
+  }
+  #mint{
+
+
+  }
+  #services{
+    background-color: black;
+    padding-left: 20%;
+    border-image-width: 30px;
+  }
+  #team {
+  }
+  #gallery h2{
+      color:red;
+
+  }
+  #footer {
+    width: 100%;
+  }
+
+  #portfolio {
+    width: 100%;
+  }
+}

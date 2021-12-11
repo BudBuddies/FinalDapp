@@ -1,0 +1,89 @@
+{
+  "Header": {
+    "title": "Bud Buddies",
+    "paragraph": "Helping grow community with communities"
+  },
+  "About": {
+    "paragraph": " ",
+  
+    "Why2": [
+      
+    ]
+  },
+  "Gallery": [
+    
+  ],
+  "Services": [
+    {
+      "icon": "",
+      "name": "",
+      "img": "img/charity/SavingSophie.png"
+    },
+   
+    {
+      "icon": "fa fa-heart",
+      "name": "",
+      "img2": "img/charity/40Tons.png"
+    }
+  ],
+  "Testimonials": [
+    
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.png",
+      "name": "Brendan",
+      "job": "Lead Developer, Trippy Artist, Solidity Magician, Fun Dad. First hit the ganja at 15. Avid cannabis grower for over ten years and strain snob. Favorite Strain: 9 lb Hammer."
+    },
+    {
+      "img": "img/team/02.png",
+      "name": "Keith",
+      "job": "Community Builder, Marketing Guru, Business Development, Existential Thought Leader, Wicked Poet. Started smoking at 16 but did not enjoy it at first... now he can't stop tokin' 24/7!"
+    },
+    {
+      "img": "img/team/03.png",
+      "name": "Kim",
+      "job": "Market Insights, Networking Powerhouse, Twitterspace Butterfly. Puff, puff, pass -- Her favorite way to get baked is a finely rolled RAW joint!"
+    },
+    {
+      "img": "img/team/04.png",
+      "name": "Becky",
+      "job": "Technical & Smart Contract Dev, Animation Lead, Bus Dev & Partnerships. Former cannabis and hemp professional for 8 years. Blazing blunts since 12 years old."
+    },
+    {
+      "img": "img/team/05.png",
+      "name": "Oscar",
+      "job": "Director of Security, White Hat, Discord Defense, Badass MoFo. Proud Dog Dad. Doesn't smoke weed currently but has a deep appreciation for the science and community."
+    }
+  ],
+  "Contact": {
+    
+  },
+  "Features": [
+    { 
+      "icon": "fa fa-group",
+      "title": "Community",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-leaf",
+      "title": "Growth",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-flask",
+      "title": "Science",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "title": "Art",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-github",
+      "title": "Coding",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
